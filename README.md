@@ -15,9 +15,10 @@ Large Language Models (LLMs), while powerful in generating coherent and fluent r
 ## Key Features
 
 **Dataset**  
-The dataset consists of AI-generated sentences labeled as hallucinated or non-hallucinated. Preprocessing steps include text normalization, vectorization (TF-IDF and BERT), and handling class imbalance through sampling techniques.
+The dataset used in this project was sourced from the [Kaggle ML Olympiad - Detect Hallucinations in LLMs competition](https://www.kaggle.com/competitions/ml-olympiad-detect-hallucinations-in-llms).
+The dataset consists of sentences labeled as hallucinated or non-hallucinated. Preprocessing steps include text normalization, vectorization (TF-IDF and BERT), and handling class imbalance through sampling techniques.
 
-**Models Implemented**  
+**Models Used**  
 - Logistic Regression  
 - Random Forest  
 - K-Nearest Neighbors  
@@ -29,7 +30,7 @@ The dataset consists of AI-generated sentences labeled as hallucinated or non-ha
 - Encoding: TF-IDF, BERT embeddings  
 - Dimensionality Reduction: Truncated SVD, SelectKBest using chi-square statistics  
 - Sampling Methods: SMOTE and ADASYN for oversampling the minority class  
-- Hyperparameter Optimization: GridSearchCV  
+- Hyperparameter Optimization: GridSearch and Random Search  
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC  
 
 ## Summary of Results
