@@ -8,8 +8,8 @@ Large Language Models (LLMs), while powerful in generating coherent and fluent r
 
 ## Repository Structure
 
-- `mini_project_report.pdf`: Comprehensive project report detailing methodology, experiments, and results.
-- `hallucination_detection.ipynb`: Jupyter notebook with complete code for preprocessing, model training, and evaluation.
+- `ML_mini_project_report_56_66_67.pdf`: Comprehensive project report detailing methodology, experiments, and results.
+- `Code.ipynb`: Jupyter notebook with complete code for preprocessing, model training, and evaluation.
 - `README.md`: Overview and documentation of the project.
 
 ## Key Features
