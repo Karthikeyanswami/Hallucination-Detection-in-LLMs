@@ -65,3 +65,5 @@ Multiple methodologies for hallucination detection have been proposed in recent 
 ## Future Work
 
 Future improvements may include integrating larger benchmark datasets like TruthfulQA, expanding into domain-specific hallucinations, incorporating multimodal hallucination detection, and fine-tuning LLMs with reinforcement learning approaches. Cross-model agreement and ensemble detection from multiple LLM outputs can further enhance robustness.
+
+
