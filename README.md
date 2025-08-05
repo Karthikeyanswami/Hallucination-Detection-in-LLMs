@@ -49,18 +49,12 @@ Multiple methodologies for hallucination detection have been proposed in recent 
    git clone https://github.com/your-username/hallucination-detection.git
    cd hallucination-detection
    ```
-
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebook:
+2. Open the notebook:
    ```
    jupyter notebook hallucination_detection.ipynb
    ```
 
-4. Run all cells to reproduce the results.
+3. Run all cells to reproduce the results.
 
 ## Future Work
 
